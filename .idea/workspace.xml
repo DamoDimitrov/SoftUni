@@ -2,14 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2753be9-8a22-44ad-aaba-e0b2f09d6b60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoExamJuneJA/MakeASalad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoExamJuneJA/TheGarden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/CompanyRooster/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/CompanyRooster/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/CompanyRooster/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/OpinionPollTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/OpinionPollTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/SpeedRacing/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/SpeedRacing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/FillTheMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/MatrixOfPalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/RadioactiveMutantVampireBunnies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/CompareMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/IntersectionOfTwoMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/PositionsOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BalancedParentheses.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicQueueOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/MaximumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Lab/BrowserHistoryUpgrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Lab/HotPotato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Lab/MathPotato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/Robotics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/PointInRectangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/PointInRectangle/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/PointInRectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/RhombusOfStars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/healthyHeaven/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/healthyHeaven/Salad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/healthyHeaven/Vegetable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SoftUni/JavaAdvanced/StacksAndQueues/Ex/BasicStackOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SoftUni/JavaAdvanced/StacksAndQueues/Ex/BasicStackOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicStackOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicStackOperations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +43,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -27,34 +67,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicStackOperations.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="42" column="41" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="42" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="52" selection-start-column="52" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/MaximumElement.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicQueueOperations.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/StudentSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state>
+              <caret column="53" selection-start-column="53" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +104,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\35989\Desktop\SoftUni\src\JavaAdvanced\DefiningClasses\Ex\OpinionPollTask</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,10 +128,54 @@
         <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicStackOperations.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/MaximumElement.java" />
         <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicQueueOperations.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BalancedParentheses.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/RecursiveFibonacci.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/Robotics.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/CompareMatrices.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/PositionsOf.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/OpinionPoll.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/OpinionPollTask/Person.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/OpinionPollTask/OpinionPoll.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/OpinionPollTask/OpinionPollTask.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/OpinionPollTask/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/CompanyRooster/Employee.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/SpeedRacing/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/SpeedRacing/Car.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/CompanyRooster/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/CompanyRooster/Department.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/SpeedRacing/Cargo.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Tyre.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Tire.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Car.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/IntersectionOfTwoMatrices.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/FillTheMatrix.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/MatrixOfPalindromes.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/RadioactiveMutantVampireBunnies.java" />
+        <option value="$PROJECT_DIR$/src/DemoExamJuneJA/TheGarden.java" />
+        <option value="$PROJECT_DIR$/src/DemoExamJuneJA/MakeASalad.java" />
+        <option value="$PROJECT_DIR$/src/healthyHeaven/Main.java" />
+        <option value="$PROJECT_DIR$/src/healthyHeaven/Vegetable.java" />
+        <option value="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/RhombusOfStars.java" />
+        <option value="$PROJECT_DIR$/src/healthyHeaven/Salad.java" />
+        <option value="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/RhombusOfStars/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/PointInRectangle/Point.java" />
+        <option value="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/PointInRectangle/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/PointInRectangle/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/Student.java" />
+        <option value="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/StudentSystem.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-18" />
     <option name="width" value="784" />
     <option name="height" value="688" />
@@ -101,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,50 +203,55 @@
               <item name="JavaAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaAdvanced" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="StacksAndQueues" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="WorkingWithAbstraction" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaAdvanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="StacksAndQueues" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaAdvanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaAdvanced" type="462c0819:PsiDirectoryNode" />
-              <item name="StacksAndQueues" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="WorkingWithAbstraction" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentSystem" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="JavaAdvanced.DefiningClasses.Ex.CompanyRooster" />
+      <recent name="JavaAdvanced.DefiningClasses.Ex.OpinionPollTask" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="JavaOOP.WorkingWithAbstraction.StudentSystem" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,13 +265,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaximumElement">
-    <configuration name="BasicStackOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.StacksAndQueues.Ex.BasicStackOperations" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOOP.WorkingWithAbstraction.RhombusOfStars.Main" />
       <module name="SoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAdvanced.StacksAndQueues.Ex.*" />
+          <option name="PATTERN" value="JavaOOP.WorkingWithAbstraction.RhombusOfStars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BrowserHistoryUpgrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.StacksAndQueues.Lab.BrowserHistoryUpgrade" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOOP.WorkingWithAbstraction.PointInRectangle.Main" />
       <module name="SoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAdvanced.StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="JavaOOP.WorkingWithAbstraction.PointInRectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotPotato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.StacksAndQueues.Lab.HotPotato" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="healthyHeaven.Main" />
       <module name="SoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAdvanced.StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="healthyHeaven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathPotato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.StacksAndQueues.Lab.MathPotato" />
+    <configuration name="MakeASalad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoExamJuneJA.MakeASalad" />
       <module name="SoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAdvanced.StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="DemoExamJuneJA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvanced.StacksAndQueues.Ex.MaximumElement" />
+    <configuration name="TheGarden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoExamJuneJA.TheGarden" />
       <module name="SoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaAdvanced.StacksAndQueues.Ex.*" />
+          <option name="PATTERN" value="DemoExamJuneJA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumElement" />
-        <item itemvalue="Application.BasicStackOperations" />
-        <item itemvalue="Application.BrowserHistoryUpgrade" />
-        <item itemvalue="Application.MathPotato" />
-        <item itemvalue="Application.HotPotato" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MakeASalad" />
+        <item itemvalue="Application.TheGarden" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +353,14 @@
       <updated>1557851728816</updated>
       <workItem from="1557851730857" duration="785000" />
       <workItem from="1557987898166" duration="16484000" />
-      <workItem from="1558285373343" duration="14219000" />
+      <workItem from="1558285373343" duration="33870000" />
+      <workItem from="1558848170619" duration="8604000" />
+      <workItem from="1559294990727" duration="2745000" />
+      <workItem from="1559715264789" duration="14544000" />
+      <workItem from="1560851428947" duration="21101000" />
+      <workItem from="1561026847401" duration="40363000" />
+      <workItem from="1561734730739" duration="2153000" />
+      <workItem from="1562064393549" duration="11109000" />
     </task>
     <task id="LOCAL-00001" summary="last task">
       <created>1558082429327</created>
@@ -276,14 +373,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31488000" />
+    <option name="totallyTimeSpent" value="151758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.25718608" />
-      <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49512196" weight="0.28517398" />
+      <window_info id="Structure" order="1" sideWeight="0.50487804" side_tool="true" weight="0.26096824" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -291,26 +388,26 @@
       <window_info id="Favorites" order="6" sideWeight="0.502439" side_tool="true" weight="0.25340393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.58428806" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29787233" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3764321" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,40 +450,64 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/Robotics.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/Robotics.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/CompareMatrices.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/PositionsOf.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/IntersectionOfTwoMatrices.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/RadioactiveMutantVampireBunnies.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DemoExamJuneJA/TheGarden.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DemoExamJuneJA/TheGarden.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DemoExamJuneJA/MakeASalad.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Lab/DecimalToBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Lab/PrinterQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Lab/MatchingBrackets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ArrayDeque.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -472,20 +593,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicStackOperations.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/MaximumElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="42" column="41" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="42" selection-end-column="41" />
+        <state relative-caret-position="272">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/MaximumElement.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicStackOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        <state relative-caret-position="319">
+          <caret line="42" column="41" lean-forward="true" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -494,8 +615,352 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BasicQueueOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="321">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1779" column="23" selection-start-line="1779" selection-start-column="23" selection-end-line="1779" selection-end-column="23" />
+          <folding>
+            <element signature="e#76978#76979#0" expanded="true" />
+            <element signature="e#77027#77028#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/BalancedParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/Robotics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="40" column="13" lean-forward="true" selection-end-line="90" />
+          <folding>
+            <element signature="method#InputRobotsAndTime#0;class#Robotics#0" />
+            <element signature="method#PrintingTheResult#0;class#Robotics#0" />
+            <element signature="method#ChangingStartingProductionTime#0;class#Robotics#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/StacksAndQueues/Ex/RecursiveFibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/CompareMatrices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="21" column="69" lean-forward="true" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/PositionsOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/OpinionPollTask/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/OpinionPollTask/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/CompanyRooster/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/CompanyRooster/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/CompanyRooster/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/SpeedRacing/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/SpeedRacing/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/SpeedRacing/Cargo.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/SpeedRacing/Engine.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Cargo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/DefiningClasses/Ex/RawData/Tire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Lab/IntersectionOfTwoMatrices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="59" lean-forward="true" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#fillMatrices#0;class#IntersectionOfTwoMatrices#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/FillTheMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/MatrixOfPalindromes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#generateString#0;class#MatrixOfPalindromes#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdvanced/MultidimentionalArrays/Ex/RadioactiveMutantVampireBunnies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1999#2154#1" />
+            <element signature="e#3298#3453#1" />
+            <element signature="method#printLair#0;class#RadioactiveMutantVampireBunnies#0" />
+            <element signature="method#multiplyingBunnies#0;class#RadioactiveMutantVampireBunnies#0" />
+            <element signature="method#gettingBunnyCoordinates#0;class#RadioactiveMutantVampireBunnies#0" />
+            <element signature="method#playerCoordinates#0;class#RadioactiveMutantVampireBunnies#0" />
+            <element signature="method#fillMatrix#0;class#RadioactiveMutantVampireBunnies#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoExamJuneJA/TheGarden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="120" column="1" lean-forward="true" selection-end-line="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printHarvest#0;class#TheGarden#0" />
+            <element signature="method#printMatrix#0;class#TheGarden#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoExamJuneJA/MakeASalad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/healthyHeaven/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/healthyHeaven/Vegetable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/RhombusOfStars.java" />
+    <entry file="file://$PROJECT_DIR$/src/healthyHeaven/Salad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/RhombusOfStars/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="method#concatRow#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/PointInRectangle/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/PointInRectangle/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/PointInRectangle/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaOOP/WorkingWithAbstraction/StudentSystem/StudentSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
