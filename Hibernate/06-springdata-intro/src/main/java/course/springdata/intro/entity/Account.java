@@ -13,13 +13,15 @@ import java.util.Set;
 @NoArgsConstructor
 @RequiredArgsConstructor
 @AllArgsConstructor
-@EqualsAndHashCode
-public class Account {
+@EqualsAndHashCode(onlyExplicitlyIncluded = true)
+public class Account{
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @EqualsAndHashCode.Include
-    private long id;
+    private Long id;
 
+    @NonNull
     private BigDecimal balance;
 
     @ManyToOne

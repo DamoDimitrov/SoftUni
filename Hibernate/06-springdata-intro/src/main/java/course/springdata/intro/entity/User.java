@@ -12,15 +12,20 @@ import java.util.Set;
 @NoArgsConstructor
 @RequiredArgsConstructor
 @AllArgsConstructor
-@EqualsAndHashCode
+@EqualsAndHashCode(onlyExplicitlyIncluded = true)
 public class User {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @EqualsAndHashCode.Include
-    private long id;
+    private Long id;
 
+    @NonNull
     private String username;
+
+    @NonNull
     private int age;
+
     @OneToMany(mappedBy = "user")
     private Set<Account> accounts = new HashSet<>();
 }
