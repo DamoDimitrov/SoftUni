@@ -27,6 +27,10 @@ public class CategoryServiceImpl implements CategoryService {
 
     @Override
     public void seedCategories() throws IOException {
+        if(categoryRepository.count() != 0) {
+            return;
+        }
+
         String[] fileContent = this.fileUtil
                 .readFileContent(CATEGORIES_FILE_PATH);
 

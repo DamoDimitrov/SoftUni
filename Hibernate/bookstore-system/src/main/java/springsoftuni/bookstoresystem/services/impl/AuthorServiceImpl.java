@@ -29,7 +29,11 @@ public class AuthorServiceImpl implements AuthorService {
 
     @Override
     public void seedAuthors() throws IOException {
-        String[] fileContent = fileUtil.readFileContent(AUTHOR_FILE_PATH);
+        if(authorRepository.count() != 0) {
+            return;
+        }
+        String[] fileContent = fileUtil
+                .readFileContent(AUTHOR_FILE_PATH);
 
         Arrays.stream(fileContent)
                 .forEach(r -> {
