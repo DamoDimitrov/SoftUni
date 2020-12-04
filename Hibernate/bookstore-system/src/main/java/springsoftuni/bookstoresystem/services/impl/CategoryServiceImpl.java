@@ -41,4 +41,14 @@ public class CategoryServiceImpl implements CategoryService {
                     this.categoryRepository.saveAndFlush(category);
                 });
     }
+
+    @Override
+    public int getAllCategoriesCount() {
+        return (int) categoryRepository.count();
+    }
+
+    @Override
+    public Category getCategoryById(Long i) {
+        return categoryRepository.getOne(i);
+    }
 }

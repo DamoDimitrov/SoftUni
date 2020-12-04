@@ -47,7 +47,7 @@ public class Book extends BaseEntity{
     public void setTitle(String title) {
         this.title = title;
     }
-    @Column(name = "description", nullable = false, length = 1000)
+    @Column(name = "description", length = 1000)
     public String getDescription() {
         return description;
     }
