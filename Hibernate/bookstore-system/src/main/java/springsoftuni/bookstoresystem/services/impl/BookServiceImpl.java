@@ -14,10 +14,7 @@ import java.io.IOException;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Random;
-import java.util.Set;
+import java.util.*;
 
 import static springsoftuni.bookstoresystem.constants.GlobalConstants.BOOKS_FILE_PATH;
 
@@ -80,6 +77,15 @@ public class BookServiceImpl implements BookService {
 
                     this.bookRepository.saveAndFlush(book);
                 });
+    }
+
+    @Override
+    public List<Book> getAllBooksAfter2000() {
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("d/M/yyyy");
+        LocalDate releaseDate = LocalDate.parse("31/12/2000", formatter);
+
+        return this.bookRepository
+                .findAllByReleaseDateAfter(releaseDate);
     }
 
     private Set<Category> getRandomCategories() {

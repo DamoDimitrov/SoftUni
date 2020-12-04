@@ -2,9 +2,13 @@ package springsoftuni.bookstoresystem.controllers;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Controller;
+import springsoftuni.bookstoresystem.entities.Author;
+import springsoftuni.bookstoresystem.entities.Book;
 import springsoftuni.bookstoresystem.services.AuthorService;
 import springsoftuni.bookstoresystem.services.BookService;
 import springsoftuni.bookstoresystem.services.CategoryService;
+
+import java.util.List;
 
 @Controller
 public class AppController implements CommandLineRunner {
@@ -25,5 +29,9 @@ public class AppController implements CommandLineRunner {
         this.categoryService.seedCategories();
         this.authorService.seedAuthors();
         this.bookService.seedBooks();
+
+        //get info
+        List<Book> books = this.bookService.getAllBooksAfter2000();
+        System.out.println();
     }
 }
