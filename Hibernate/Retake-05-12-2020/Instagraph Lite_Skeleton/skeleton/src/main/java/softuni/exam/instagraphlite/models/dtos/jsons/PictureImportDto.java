@@ -1,12 +1,7 @@
 package softuni.exam.instagraphlite.models.dtos.jsons;
 
 import com.google.gson.annotations.Expose;
-import org.hibernate.annotations.MapKeyType;
-import org.hibernate.validator.constraints.Length;
-
-import javax.validation.constraints.Max;
-import javax.validation.constraints.Min;
-import javax.validation.constraints.Size;
+import javax.validation.constraints.NotNull;
 
 public class PictureImportDto {
     @Expose
@@ -17,6 +12,7 @@ public class PictureImportDto {
     public PictureImportDto() {
     }
 
+    @NotNull
     public String getPath() {
         return path;
     }

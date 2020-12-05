@@ -2,6 +2,7 @@ package softuni.exam.instagraphlite.service.impl;
 
 import com.google.gson.Gson;
 import org.modelmapper.ModelMapper;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import softuni.exam.instagraphlite.repository.UserRepository;
 import softuni.exam.instagraphlite.service.UserService;
@@ -21,6 +22,7 @@ public class UserServiceImpl implements UserService {
     private final Gson gson;
     private final ValidatorUtil validatorUtil;
 
+    @Autowired
     public UserServiceImpl(UserRepository userRepository, ModelMapper modelMapper, Gson gson, ValidatorUtil validatorUtil) {
         this.userRepository = userRepository;
         this.modelMapper = modelMapper;
