@@ -1,9 +1,11 @@
 package softuni.exam.instagraphlite.service.impl;
 
+import org.springframework.stereotype.Service;
 import softuni.exam.instagraphlite.service.PostService;
 
 import java.io.IOException;
 
+@Service
 public class PostServiceImpl implements PostService {
     @Override
     public Boolean аreImported() {
