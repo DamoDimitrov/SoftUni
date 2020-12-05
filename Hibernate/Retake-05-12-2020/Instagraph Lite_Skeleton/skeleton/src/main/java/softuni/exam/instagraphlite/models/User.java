@@ -14,7 +14,7 @@ public class User extends BaseEntity{
     public User() {
     }
 
-    @Column
+    @Column(unique = true, nullable = false)
     public String getUsername() {
         return username;
     }
@@ -23,7 +23,7 @@ public class User extends BaseEntity{
         this.username = username;
     }
 
-    @Column
+    @Column(nullable = false)
     public String getPassword() {
         return password;
     }
@@ -33,7 +33,7 @@ public class User extends BaseEntity{
     }
 
     @ManyToOne
-    @JoinColumn(name = "profile_picture_id")
+    @JoinColumn(name = "profile_picture_id", nullable = false)
     public Picture getProfilePicture() {
         return profilePicture;
     }

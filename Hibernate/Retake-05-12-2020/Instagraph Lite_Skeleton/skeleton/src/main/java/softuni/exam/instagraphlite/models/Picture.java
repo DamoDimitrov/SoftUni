@@ -15,7 +15,7 @@ public class Picture extends BaseEntity{
     public Picture() {
     }
 
-    @Column
+    @Column(unique = true, nullable = false)
     public String getPath() {
         return path;
     }
@@ -24,7 +24,7 @@ public class Picture extends BaseEntity{
         this.path = path;
     }
 
-    @Column
+    @Column(nullable = false)
     public double getSize() {
         return size;
     }

@@ -12,7 +12,7 @@ public class Post extends BaseEntity{
     public Post() {
     }
 
-    @Column
+    @Column(nullable = false)
     public String getCaption() {
         return caption;
     }
@@ -22,7 +22,7 @@ public class Post extends BaseEntity{
     }
 
     @ManyToOne
-    @JoinColumn(name = "user_id")
+    @JoinColumn(name = "user_id", nullable = false)
     public User getUser() {
         return user;
     }
@@ -32,7 +32,7 @@ public class Post extends BaseEntity{
     }
 
     @ManyToOne
-    @JoinColumn(name = "picture_id")
+    @JoinColumn(name = "picture_id", nullable = false)
     public Picture getPicture() {
         return picture;
     }
